@@ -1,0 +1,253 @@
+				Data Dictionary - Cellphone Motion Activity
+				Coursera - Getting and Cleaning Data - Assignment 1
+				
+Activity_Name
+	Physical Activity Type
+		 WALKING
+		 WALKING_UPSTAIRS
+		 WALKING_DOWNSTAIRS
+		 SITTING
+		 STANDING
+		 LAYING
+		 
+Subject
+	The subject number of the test subject
+		1..30
+		
+tBodyAcc_mean_X
+	Body Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAcc_mean_Y
+	Body Accelerometer Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAcc_mean_Z
+	Body Accelerometer Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_mean_X
+	Gravity Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_mean_Y
+	Gravity Accelerometer Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_mean_Z
+	Gravity Accelerometer Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_mean_X
+	Body Accelerometer Jerk Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_mean_Y
+	Body Accelerometer Jerk Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_mean_Z
+	Body Accelerometer Jerk Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_mean_X
+	Body Gyro Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_mean_Y
+	Body Gyro Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_mean_Z
+	Body Gyro Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_mean_X
+	Body Gyro Jerk Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_mean_Y
+	Body Gyro Jerk Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_mean_Z
+	Body Gyro Jerk Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccMag_mean
+	Body Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAccMag_mean
+	Body Accelerometer Mag Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerkMag_mean
+	Body Accelerometer Mag Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroMag_mean
+	Body Accelerometer Mag Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerkMag_mean
+	Body Gyro Jerk Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_mean_X
+	Body Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_mean_Y
+	Body Accelerometer Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_mean_Z
+	Body Accelerometer Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_meanFreq_X
+	Body Frequency Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_meanFreq_Y
+	Body Frequency Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_meanFreq_Z
+	Body Frequency Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_mean_X
+	Body Accelerometer Jerk Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_mean_Y
+	Body Accelerometer Jerk Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_mean_Z
+	Body Accelerometer Jerk Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_meanFreq_X
+	Body Accelerometer Jerk Frequency Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_meanFreq_Y
+	Body Accelerometer Jerk Frequency Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_meanFreq_Z
+	Body Accelerometer Jerk Frequency Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_mean_X
+	Body Gyro Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_mean_Y
+	Body Gyro Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_mean_Z
+	Body Gyro Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_meanFreq_X
+	Body Gyro Frequency Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_meanFreq_Y
+	Body Gyro Frequency Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_meanFreq_Z
+	Body Gyro Frequency Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccMag_mean
+	Body Accelerometer Mag Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccMag_meanFreq
+	Body Accelerometer Mag Frequency Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyAccJerkMag_mean
+	Body Accelerometer Jerk Mag Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyAccJerkMag_meanFreq
+	Body Accelerometer Jerk Mag Frequency Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroMag_mean
+	Body Gyro Mag Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroMag_meanFreq
+	Body Gyro Mag Frequency Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroJerkMag_mean
+	Body Gyro Jerk Mag Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroJerkMag_meanFreq
+	Body Gyro Jerk Mag Frequency Mean
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAcc_std_X
+	Body Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAcc_std_Y
+	Body Accelerometer Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAcc_std_Z
+	Body Accelerometer Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_std_X
+	Body Gravity Accelerometer Mean X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_std_Y
+	Body Gravity Accelerometer Mean Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAcc_std_Z
+	Body Gravity Accelerometer Mean Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_std_X
+	Body Accelerometer Jerk STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_std_Y
+	Body Accelerometer Jerk STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerk_std_Z
+	Body Accelerometer Jerk STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_std_X
+	Body Gyro STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_std_Y
+	Body Gyro STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyro_std_Z
+	Body Gyro STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_std_X
+	Body Gyro Jerk STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_std_Y
+	Body Gyro Jerk STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerk_std_Z
+	Body Gyro Jerk STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccMag_std
+	Body Accelerometer Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tGravityAccMag_std
+	Body Travity Accelerometer STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyAccJerkMag_std
+	Body Accelerometer Jerk Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroMag_std
+	Body Gyro Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+tBodyGyroJerkMag_std
+	Body Gyro Jerk Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_std_X
+	Body Accelerometer STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_std_Y
+	Body Accelerometer STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAcc_std_Z
+	Body Accelerometer STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_std_X
+	Body Accelerometer Jerk STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_std_Y
+	Body Accelerometer Jerk STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccJerk_std_Z
+	Body Accelerometer Jer STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_std_X
+	Body Gyro STD X Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_std_Y
+	Body Gyro STD Y Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyGyro_std_Z
+	Body Gyro STD Z Axis
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyAccMag_std
+	Body Accelerometer Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyAccJerkMag_std
+	Body Accelerometer Jerk Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroMag_std
+	Body Gyro Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
+fBodyBodyGyroJerkMag_std
+	Body Gyro Jerk Mag STD
+		-9.9999999999999999 - +9.9999999999999999 Sensor Reading Value 
