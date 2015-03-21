@@ -33,7 +33,7 @@ train_test<-rbind(train,test)
 activity<-read.csv("../r/UCI HAR Dataset/activity_labels.txt",sep=" ",col.names=c("Activity","Activity_Name"),colClasses=c("numeric","character"), header=FALSE)
 act_train_test<-merge(activity,train_test,by="Activity") %>% dplyr::select(-Activity)
 ## We write out the table for the submission
-write.table(act_train_test,"activity_subset.txt",row.names=FALSE)
+# write.table(act_train_test,"activity_subset.txt",row.names=FALSE)
 ## Next we will group by and summarise the data ****5th element
 avg_act_train_test<-aggregate(. ~ Activity_Name+Subject ,data=act_train_test,mean,na.rm=TRUE)
 write.table(avg_act_train_test,"activity_average.txt",row.names=FALSE)

@@ -1,6 +1,9 @@
 				Data Dictionary - Cellphone Motion Activity
 				Coursera - Getting and Cleaning Data - Assignment 1
-				
+
+Cellphone Sensor Activity Information.
+This file was deduced from the test data.
+The data was grouped by test subject and activity. All the measures are the mean of the data collected in the study.				
 Activity_Name
 	Physical Activity Type
 		 WALKING
